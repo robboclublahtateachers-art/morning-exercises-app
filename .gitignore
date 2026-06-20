@@ -1,0 +1,95 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS files
+*.log
+
+# Android Studio generated files and folders
+.idea/
+.gradle
+.DS_Store
+build
+gradle
+*.ipr
+*.iml
+*.iws
+.classpath
+.project
+.c9/
+*.c9search
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+.idea_modules/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/jarRepositories.xml
+.idea/misc.xml
+
+# Android Studio 3 in .gitignore file.
+.idea/caches
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/jarRepositories.xml
+.idea/uiDesigner.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/inspectionProfiles
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Freeline
+freeline.py
+freeline/
+freeline_files/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+
+# Version control
+vcs.xml
+
+# lint
+lint-results.xml
+lint-results-*.html
+lint-baseline.xml
+
+# Ignore gradle wrapper
+gradlew
+gradlew.bat
+gradle
+
+*.bin
